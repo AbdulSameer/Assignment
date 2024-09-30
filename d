@@ -1,7 +1,8 @@
 
 CREATE TABLE [E_1]
 ( 
-	[test]               char(18)  NOT NULL 
+	[test]               char(18)  NOT NULL ,
+	[demo]               char(18)  NULL 
 )
 go
 
